@@ -12,10 +12,10 @@
  </h3>
 
 <h2 align="center">
- <img src="https://img.shields.io/badge/Course-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer Science (AI)-white.svg?&style=for-the-badge" /> 
+ <img src="https://img.shields.io/badge/Course-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/ Robotics and Automation -white.svg?&style=for-the-badge" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Year-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/4-white.svg?&style=for-the-badge" /> <br> 
+ <img src="https://img.shields.io/badge/Year-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/1-white.svg?&style=for-the-badge" /> <br> 
  <img src="https://img.shields.io/badge/College-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/Adi Shankara Institute Of Engineering and Technology, Kalady-white.svg?&style=for-the-badge&logo=Adi%20Shankara&logoColor=white" />
  </h2>
  
@@ -25,7 +25,7 @@
  
  <h2 align="center">
 <!-- <img src="https://img.shields.io/badge/-1-blue?style=plastic" width = "28" height = "28" /> -->
- <img src="https://img.shields.io/badge/Community Lead IEDC ASIET-EC3750.svg?&style=for-the-badge" />
+ 
  </h2>
 
 <h3 align="center">
