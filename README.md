@@ -99,17 +99,15 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/aaronvincent6411">
+  <a href="https://www.linkedin.com/in/aryansoji/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aaronvincent6411@gmail.com">
+  <a href="mailto:aryansojiaks@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/aaronvincent11">
-    <img src="https://img.shields.io/badge/linktree-1de900?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  
 </p>
 
 <h3 align='center'>
@@ -119,7 +117,7 @@
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aaronvincent6411&show_icons=true&count_private=true&theme=dark" width="300" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mxyzpltks&show_icons=true&count_private=true&theme=dark" width="300" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronVincent6411&theme=dark" width="300" /></a>
