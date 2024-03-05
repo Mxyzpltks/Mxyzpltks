@@ -52,6 +52,8 @@
  </h3>
  
  <h2 align="center">
+   <img src="https://badgen.net/badge/Robotics/Autonoumous Robotics/blue/"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Machine Learning-EE4C2C?style=for-the-badge&logoColor=white" /> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Cyber Security-21416b?style=for-the-badge&logoColor=white" />
