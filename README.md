@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello all, I'm Aryan Soji <img src="" align="center" width="70" height="70" />
+  Hello all, I'm Aryan Soji 
 </h1>
 
 <h4 align='center'>
