@@ -1,100 +1,30 @@
-<h1 align='center'>
-  Hello all, I'm Aryan Soji 
-</h1>
-
-<h4 align='center'>
-  A student and a developer👨‍💻
-</h4>
+# 💫 About Me:
 
 
-<h3 align="center">
-  Present Education
- </h3>
 
-<h2 align="center">
- <img src="https://img.shields.io/badge/Course-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/ Robotics and Automation -white.svg?&style=for-the-badge" /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Year-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/1-white.svg?&style=for-the-badge" /> <br> 
- <img src="https://img.shields.io/badge/College-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/Adi Shankara Institute Of Engineering and Technology, Kalady-white.svg?&style=for-the-badge&logo=Adi%20Shankara&logoColor=white" />
- </h2>
- 
- <h3 align="center">
-  Present Positions
- </h3>
- 
- <h2 align="center">
-<!-- <img src="https://img.shields.io/badge/-1-blue?style=plastic" width = "28" height = "28" /> -->
- 
- </h2>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/746391338127196270) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mxyzptlks_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansoji) 
 
-<h3 align="center">
-  Basic Programming languages and Frameworks
- </h3>
- 
- <h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Svelte-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- </h2>
- 
- <h3 align="center">
-  Interested Fields
- </h3>
- 
- <h2 align="center">
-   <img src="https://badgen.net/badge/Robotics/Autonoumous Robotics/blue/"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Machine Learning-EE4C2C?style=for-the-badge&logoColor=white" /> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cyber Security-21416b?style=for-the-badge&logoColor=white" />
- </h2>
- 
- <h3 align="center">
-  Max Rating
- </h3>
- 
- <h2 align="center">
- <img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=Codechef&logoColor=darkblue" /> 
-  <img src="https://img.shields.io/badge/1139-21416b?style=for-the-badge&logoColor=white" />
- </h2>
- 
- 
- <h3 align="center">
-  Contact Details
- </h3>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mxyzpltks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mxyzpltks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxyzpltks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/aryansoji/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aryansojiaks@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mxyzpltks&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<h3 align='center'>
- Github Status
-</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mxyzpltks&show_icons=true&count_private=true&theme=dark" width="300" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mxypltks&theme=dark" width="300" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mxyzpltks&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mxyzpltks&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
