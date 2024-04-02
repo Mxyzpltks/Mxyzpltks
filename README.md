@@ -1,6 +1,6 @@
 # 💫 About Me:
 First-year Robotics & Automation student at ASIET, Kalady. 🤖<br>
-Proficient in Svelte and Python 🐍. Machine Learning Specialist 🤖.<br>
+Proficient in Svelte and Python 🐍. Aspiring Machine Learning Engineer 🤖.<br>
 Building impactful web dev projects (more to come! 🚀).<br>
 Currently diving into the world of ML projects 📈. Competitive coder for sharper algorithms 💻.<br>
 Always up for a challenge! Feel free to connect 🤝
